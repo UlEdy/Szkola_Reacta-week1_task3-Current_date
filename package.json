@@ -1,0 +1,23 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "description": "Szkoła Reacta - week 1 - task 3",
+  "main": "time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "now": "node time.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlEdy/week1_task3.git"
+  },
+  "author": "Ed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UlEdy/week1_task3/issues"
+  },
+  "homepage": "https://github.com/UlEdy/week1_task3#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
