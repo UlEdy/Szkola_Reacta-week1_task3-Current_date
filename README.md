@@ -1,6 +1,8 @@
-# week1_task3
-Szkoła Reacta - week 1 - task 3
+# Check the current date.
+## Getting Started
 
-Check the current date.
+To start the project, follow these steps:
 
-In terminal use `npm run now`
+1. Open a terminal.
+2. Type the following command to install dependencies: `npm install`.
+3. Once the dependencies are installed, check the date using: `npm run now`.
